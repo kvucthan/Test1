@@ -11,4 +11,4 @@ Noget meget andet tilføjet - konflikt
 Noget mere og andet at tilføje :-)
 TEST
 
-branch1 tilføjelse
+branch1 tilføjelse, branch2 tilføjelse
