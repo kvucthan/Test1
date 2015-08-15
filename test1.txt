@@ -12,3 +12,4 @@ Noget mere og andet at tilføje :-)
 TEST
 
 branch1 tilføjelse, branch2 tilføjelse
+branch2 tilføjelse 2
