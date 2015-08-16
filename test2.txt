@@ -9,7 +9,7 @@ Noget mere tilføjet 3
 Noget mere tilføjet 4
 Noget meget andet tilføjet - konflikt
 Noget mere og andet at tilføje :-)
-kestvesttest
+kestvesttest bbb
 
 branch1 tilføjelse, branch2 tilføjelse
 branch2 tilføjelse 2
